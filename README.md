@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently a Ph.D. student in Computer Science supervised by Prof. Ruizhen Hu, working in Visual Computing Research Center, Shenzhen University.
 - 🌱 I am interested in Computer Graphics, Robotics and Reinforcement Learning.
-- 🪵 I am also learning blender.
+- 🪵 I am also learning about blender.
 
 
 ### Research
 
-<img align='right' height='150' src="./assets/tapnet++/img.jpg" alt="图片" />
+<img align='right' height='170' src="./assets/tapnet++/img.jpg" alt="图片" />
 
 #### [Neural Packing: from Visual Sensing to Reinforcement Learning]('https://vcc.tech/research/2023/TAPNet++')
 
@@ -29,7 +29,7 @@ ACM Transactions on Graphics (Proc. SIGGRAPH Asia), 42(6), 2023.
 
 <!-- ######################################################## -->
 
-<img align='right' height='150' src="./assets/nift/img.png" alt="图片" />
+<img align='right' height='170' src="./assets/nift/img.png" alt="图片" />
 
 #### [NIFT: Neural Interaction Field and Template for Object Manipulation]('https://vcc.tech/research/2023/NIFT')
 
@@ -49,7 +49,7 @@ IEEE International Conference on Robotics and Automation (ICRA), 2023.
 <summary>More researchs</summary>
 
 <!-- ######################################################## -->
-<img align='right' height='150' src="./assets/ibs_grasp/img.jpg" alt="图片" />
+<img align='right' height='170' src="./assets/ibs_grasp/img.jpg" alt="图片" />
 
 #### [Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction]('https://vcc.tech/research/2022/Grasping')
 
@@ -66,7 +66,7 @@ ACM Transactions on Graphics (Proc. SIGGRAPH), 41(4): 97, 2022.
 
 
 <!-- ######################################################## -->
-<img align='right' height='150' src="./assets/upright/img.png" alt="图片" />
+<img align='right' height='170' src="./assets/upright/img.png" alt="图片" />
 
 #### [UprightRL: Upright Orientation Estimation of 3D Shapes via Reinforcement Learning]('https://vcc.tech/research/2021/UprightRL')
 
@@ -82,7 +82,7 @@ Computer Graphics Forum (Proc. Pacific Graphics), 2021.
 <br/>
 
 <!-- ######################################################## -->
-<img align='right' height='150' src="./assets/starglyph/img.png" alt="图片" />
+<img align='right' height='170' src="./assets/starglyph/img.png" alt="图片" />
 
 #### [Shape-driven Coordinate Ordering for Star Glyph Sets via Reinforcement Learning]('https://vcc.tech/research/2021/STAR')
 
@@ -99,7 +99,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2021.
 
 
 <!-- ######################################################## -->
-<img align='right' height='150' src="./assets/tapnet/img.png" alt="图片" />
+<img align='right' height='170' src="./assets/tapnet/img.png" alt="图片" />
 
 #### [TAP-Net: Transport-and-Pack using Reinforcement Learning]('https://vcc.tech/research/2020/TAP')
 
