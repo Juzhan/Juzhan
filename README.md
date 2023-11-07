@@ -10,9 +10,7 @@
 - 🪵 I am also learning blender.
 
 
-<h3>Research</h3>
-
-
+### Research
 
 <img align='right' height='150' src="./assets/tapnet++/img.jpg" alt="图片" />
 <div align='left'>
@@ -22,10 +20,9 @@ Juzhan Xu,
 <a href="http://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, 
 <a href="http://vcc.szu.edu.cn/~huihuang/">Hui Huang</a> and 
 <a href="https://csse.szu.edu.cn/staff/ruizhenhu/index.htm">Ruizhen Hu</a>
-<em>ACM Transactions on Graphics</em>  (Proc. SIGGRAPH Asia), 42(6), 2023.
-[<a href="https://vcc.tech/research/2023/TAPNet++">Project page</a>]
-<br/>
-<p>A novel learning framework to solve the transport-and-packing (TAP) problem in 3D. It constitutes a full solution pipeline from partial observations of input objects via RGBD sensing and recognition to final box placement, via robotic motion planning, to arrive at a compact packing in a target container.</p>
+
+ACM Transactions on Graphics (Proc. SIGGRAPH Asia), 42(6), 2023. [<a href="https://vcc.tech/research/2023/TAPNet++">Project page</a>]
+<p>A novel learning framework to solve the transport-and-packing (TAP) problem in 3D.</p>
 <br/>
 </div>
 
@@ -42,6 +39,7 @@ Juzhan Xu,
 <a href="http://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, 
 <a href="http://vcc.szu.edu.cn/~huihuang/">Hui Huang</a> and 
 <a href="https://csse.szu.edu.cn/staff/ruizhenhu/index.htm">Ruizhen Hu</a>
+
 IEEE International Conference on Robotics and Automation (ICRA), 2023.
 [<a href="https://vcc.tech/research/2023/NIFT">Project page</a>]
 <br/>
@@ -62,6 +60,7 @@ Juzhan Xu,
 <a href="#">Min Liu</a>, 
 <a href="http://kevinkaixu.net/">Kai Xu</a> and 
 <a href="http://vcc.szu.edu.cn/~huihuang/">Hui Huang</a>
+
 ACM Transactions on Graphics (Proc. SIGGRAPH), 41(4): 97, 2022.
 [<a href="https://vcc.tech/research/2022/Grasping">Project page</a>]
 <br/>
@@ -81,10 +80,11 @@ Juzhan Xu,
 <a href="https://brotherhuang.github.io/">Haibin Huang</a>, 
 <a href="http://vcc.szu.edu.cn/~huihuang/">Hui Huang</a> and 
 <a href="https://csse.szu.edu.cn/staff/ruizhenhu/index.htm">Ruizhen Hu</a>
+
 Computer Graphics Forum (Proc. Pacific Graphics), 2021.
 [<a href="https://vcc.tech/research/2021/UprightRL">Project page</a>]
 <br/>
-<p>In this paper, we study the problem of 3D shape upright orientation estimation from the perspective of reinforcement learning, i.e. we teach a machine (agent) to orientate 3D shapes step by step to upright given its current observation.</p>
+<p>In this paper, we study the problem of 3D shape upright orientation estimation from the perspective of reinforcement learning.</p>
 <br/>
 </div>
 
@@ -98,6 +98,7 @@ Juzhan Xu,
 <a href="http://people.scs.carleton.ca/~olivervankaick/index.html">Oliver van Kaick</a>, 
 <a href="https://www.cgmi.uni-konstanz.de/">Oliver Deussen</a> and 
 <a href="http://vcc.szu.edu.cn/~huihuang/">Hui Huang</a>
+
 IEEE Transactions on Visualization and Computer Graphics, 2021.
 [<a href="https://vcc.tech/research/2021/STAR">Project page</a>]
 <br/>
@@ -116,6 +117,7 @@ Juzhan Xu,
 <a href="http://socs.uoguelph.ca/~minglun/">Minglun Gong</a>, 
 <a href="http://www.cs.sfu.ca/~haoz/">Hao Zhang</a> and 
 <a href="http://vcc.szu.edu.cn/~huihuang/">Hui Huang</a>
+
 <em>ACM Transactions on Graphics</em>  (Proc. SIGGRAPH Asia), 42(6), 2020.
 [<a href="https://vcc.tech/research/2020/TAP">Project page</a>]
 <br/>
