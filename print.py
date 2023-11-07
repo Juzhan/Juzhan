@@ -47,28 +47,17 @@ person_string += user_dict[ person[person_num-1] ]
 
 
 tmp = f'''
-<!-- ######################################################## -->
-<div class='pub'>
 
-<div class="pub_img_div">
-    <img class='pub_img' src="{img}" alt="图片" >
-</div>
+<img align='right' height='170' src="{img}" alt="图片" />
 
-<div class="pub_info_div">
-<div class='pub_title'>{title}</div>
-<div class='pub_person'>
+#### [{title}](#)
+
 {person_string}
-</div>
-<div class='pub_org'>
-{org}
-[<a href="#">Project page</a>]
-</div>
-<br>
-<p>{description}</p>
-<br>
-</div>
 
-</div>
+{org}
+<p>{description}</p>
+<br/>
+
 '''
 
 print(tmp)
