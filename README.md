@@ -5,7 +5,7 @@
 <!-- ######################################################## -->
 <img align='right' height='120' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Juzhan&layout=compact">
 
-- 🔭 I’m currently a Ph.D. student in Computer Science supervised by Prof. Ruizhen Hu, working in Visual Computing Research Center, Shenzhen University.
+- 🔭 I’m currently a Ph.D. student in Computer Science supervised by <a href="https://csse.szu.edu.cn/staff/ruizhenhu/index.htm" target="_blank">Prof. Ruizhen Hu</a>, working in <a href="https://vcc.tech/" target="_blank">Visual Computing Research Center</a>, <a href="http://szu.edu.cn" target="_blank">Shenzhen University</a>.
 - 🌱 I am interested in Computer Graphics, Robotics and Reinforcement Learning.
 - 🪵 I am also learning about blender.
 
