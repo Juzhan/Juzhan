@@ -16,7 +16,7 @@
 
 ### [Neural Packing: from Visual Sensing to Reinforcement Learning](https://vcc.tech/research/2023/TAPNet++)
 
-<a href="juzhan.github.io">Juzhzan Xu</a>, 
+<a href="http://juzhan.github.io">Juzhzan Xu</a>, 
 <a href="http://socs.uoguelph.ca/~minglun/">Minglun Gong</a>, 
 <a href="http://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, 
 <a href="http://vcc.szu.edu.cn/~huihuang/">Hui Huang</a> and 
@@ -34,7 +34,7 @@ ACM Transactions on Graphics (Proc. SIGGRAPH Asia), 42(6), 2023.
 ### [NIFT: Neural Interaction Field and Template for Object Manipulation](https://vcc.tech/research/2023/NIFT)
 
 <a href="https://zzilch.github.io/">Zeyu Huang</a>, 
-<a href="juzhan.github.io">Juzhzan Xu</a>, 
+<a href="http://juzhan.github.io">Juzhzan Xu</a>, 
 <a href="#">Sisi Dai</a>, 
 <a href="http://kevinkaixu.net/">Kai Xu</a>, 
 <a href="http://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, 
@@ -55,7 +55,7 @@ IEEE International Conference on Robotics and Automation (ICRA), 2023.
 
 <a href="https://qijinshe.github.io/">Qijin She</a>, 
 <a href="https://csse.szu.edu.cn/staff/ruizhenhu/index.htm">Ruizhen Hu</a>, 
-<a href="juzhan.github.io">Juzhzan Xu</a>, 
+<a href="http://juzhan.github.io">Juzhzan Xu</a>, 
 <a href="#">Min Liu</a>, 
 <a href="http://kevinkaixu.net/">Kai Xu</a> and 
 <a href="http://vcc.szu.edu.cn/~huihuang/">Hui Huang</a>
@@ -71,7 +71,7 @@ ACM Transactions on Graphics (Proc. SIGGRAPH), 41(4): 97, 2022.
 ### [UprightRL: Upright Orientation Estimation of 3D Shapes via Reinforcement Learning](https://vcc.tech/research/2021/UprightRL)
 
 <a href="#">Luanmin Chen</a>, 
-<a href="juzhan.github.io">Juzhzan Xu</a>, 
+<a href="http://juzhan.github.io">Juzhzan Xu</a>, 
 <a href="#">Chuan Wang</a>, 
 <a href="https://brotherhuang.github.io/">Haibin Huang</a>, 
 <a href="http://vcc.szu.edu.cn/~huihuang/">Hui Huang</a> and 
@@ -88,7 +88,7 @@ Computer Graphics Forum (Proc. Pacific Graphics), 2021.
 
 <a href="https://csse.szu.edu.cn/staff/ruizhenhu/index.htm">Ruizhen Hu</a>, 
 <a href="#">Bin Chen</a>, 
-<a href="juzhan.github.io">Juzhzan Xu</a>, 
+<a href="http://juzhan.github.io">Juzhzan Xu</a>, 
 <a href="http://people.scs.carleton.ca/~olivervankaick/index.html">Oliver van Kaick</a>, 
 <a href="https://www.cgmi.uni-konstanz.de/">Oliver Deussen</a> and 
 <a href="http://vcc.szu.edu.cn/~huihuang/">Hui Huang</a>
@@ -104,7 +104,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2021.
 ### [TAP-Net: Transport-and-Pack using Reinforcement Learning](https://vcc.tech/research/2020/TAP)
 
 <a href="https://csse.szu.edu.cn/staff/ruizhenhu/index.htm">Ruizhen Hu</a>, 
-<a href="juzhan.github.io">Juzhzan Xu</a>, 
+<a href="http://juzhan.github.io">Juzhzan Xu</a>, 
 <a href="#">Bin Chen</a>, 
 <a href="http://socs.uoguelph.ca/~minglun/">Minglun Gong</a>, 
 <a href="http://www.cs.sfu.ca/~haoz/">Hao Zhang</a> and 
